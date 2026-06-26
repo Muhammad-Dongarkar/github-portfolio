@@ -1,4 +1,4 @@
-# Muhammad S. Dongarkar - Personal Portfolio
+# Muhammad Dongarkar - Personal Portfolio
 
 Welcome to my personal portfolio website.
 
